@@ -1,0 +1,35 @@
+.user_box {
+    display: flex;
+    align-items: center;
+}
+
+.user_name {
+    color: rgb(62, 218, 245);
+    font-size: 20px;
+    margin-right: 10px;
+    text-decoration: none;
+    transition: 250ms ease;
+}
+
+.user_name:hover {
+    color: rgb(0, 151, 177);
+    transition: all .3s cubic-bezier(.39, .575, .565, 1);
+}
+
+.button {
+    color: antiquewhite;
+    font-size: 15px;
+    border-radius: 5px;
+    border-color: transparent;
+    background-color: rgb(62, 218, 245);
+    cursor: pointer;
+    text-align: center;
+    transition: 250ms ease;
+    width: 70px;
+    height: 31px;
+}
+
+.button:hover {
+    background-color: rgb(0, 151, 177);
+    transition: all .3s cubic-bezier(.39, .575, .565, 1);
+}

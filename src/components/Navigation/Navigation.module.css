@@ -1,0 +1,16 @@
+.link {
+    text-decoration: none;
+    font-size: 20px;
+    color: rgb(62, 218, 245);
+    cursor: pointer;
+    transition: 250ms ease;
+}
+
+.link:not(:last-child) {
+    margin-right: 20px;
+}
+
+.link:hover {
+    color: rgb(0, 146, 172);
+    transition: all .3s cubic-bezier(.39, .575, .565, 1);
+}
