@@ -1,0 +1,15 @@
+.contacts_box{
+    background-color: rgb(240, 255, 129);
+    padding-top: 1px;
+    padding-bottom: 47px;
+}
+
+.contacts_title{
+    text-align: center;
+    color: rgb(1, 1, 1);
+}
+
+.contacts_name{
+    text-align: center;
+    color: rgb(1, 1, 1);
+}

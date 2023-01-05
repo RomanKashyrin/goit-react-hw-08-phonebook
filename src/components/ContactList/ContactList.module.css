@@ -9,9 +9,9 @@
 
 .list {
     list-style: none;
-    background-color: #3a9dee;
+    background-color: #dad600;
     border-radius: 4px;
-    box-shadow: 0.5rem 0.5rem 2rem #a7a4a4, -0.5rem -0.5rem 2rem #acabab;
+    /* box-shadow: 0.5rem 0.5rem 2rem #a7a4a4, -0.5rem -0.5rem 2rem #acabab; */
     padding: 20px;
     display: flex;
     justify-content: center;

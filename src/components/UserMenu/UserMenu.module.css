@@ -4,7 +4,7 @@
 }
 
 .user_name {
-    color: rgb(62, 218, 245);
+    color: #0060af;
     font-size: 20px;
     margin-right: 10px;
     text-decoration: none;
@@ -12,16 +12,16 @@
 }
 
 .user_name:hover {
-    color: rgb(0, 151, 177);
+    color: #0890ff;
     transition: all .3s cubic-bezier(.39, .575, .565, 1);
 }
 
 .button {
-    color: antiquewhite;
+    color: rgb(240, 255, 129);
     font-size: 15px;
     border-radius: 5px;
     border-color: transparent;
-    background-color: rgb(62, 218, 245);
+    background-color: #0060af;
     cursor: pointer;
     text-align: center;
     transition: 250ms ease;
@@ -30,6 +30,6 @@
 }
 
 .button:hover {
-    background-color: rgb(0, 151, 177);
+    background-color: #0890ff;
     transition: all .3s cubic-bezier(.39, .575, .565, 1);
 }

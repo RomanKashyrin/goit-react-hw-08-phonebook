@@ -1,7 +1,7 @@
 .link {
     text-decoration: none;
     font-size: 20px;
-    color: rgb(62, 218, 245);
+    color: #0060af;
     cursor: pointer;
     transition: 250ms ease;
 }
@@ -11,6 +11,6 @@
 }
 
 .link:hover {
-    color: rgb(0, 146, 172);
+    color: #0890ff;
     transition: all .3s cubic-bezier(.39, .575, .565, 1);
 }
